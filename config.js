@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['15203484182','6285380166282','6283169566533']
-global.ownernomer = "15203484182"
+global.owner = ['6281252382003']
+global.ownernomer = "6281252382003"
 global.premium = ['6285875158363']
-global.packname = 'SychoBot'
-global.author = 'GadingAgani'
+global.packname = 'SkyBot'
+global.author = 'Rexxy'
 global.sessionName = 'nazedev'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
